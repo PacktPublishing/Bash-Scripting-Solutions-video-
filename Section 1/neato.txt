@@ -1,0 +1,56 @@
+ls: cannot access '/home/test/fakefile.txt': No such file or directory
+/home/test/:
+total 272
+drwxr-xr-x 34 test test  4096 Oct 22 11:50 .
+drwxr-xr-x  3 root root  4096 Aug 10 11:20 ..
+-rw-rw-r--  1 test test   179 Aug 16 12:21 .apport-ignore.xml
+drwxrwxr-x  6 test test  4096 Aug 13 12:34 .atom
+-rw-------  1 test test 50033 Sep 20 16:56 .bash_history
+-rw-r--r--  1 test test   220 Aug 10 11:20 .bash_logout
+-rw-r--r--  1 test test  3771 Aug 10 11:20 .bashrc
+drwxrwxr-x  3 test test  4096 Oct 22 11:50 bash_solutions
+drwx------ 18 test test  4096 Sep  3 09:19 .cache
+drwx------  3 test test  4096 Sep 11 15:03 .compiz
+drwx------ 19 test test  4096 Sep 17 12:26 .config
+drwx------  3 root root  4096 Sep 14 13:47 .dbus
+drwxr-xr-x  2 test test  4096 Sep 24 10:49 Desktop
+-rw-r--r--  1 test test    25 Aug 10 11:55 .dmrc
+drwxr-xr-x  2 test test  4096 Aug 13 14:25 Documents
+drwxr-xr-x  2 test test  4096 Sep 18 11:47 Downloads
+drwx------  2 test test  4096 Sep 17 13:54 .elinks
+drwx------  2 test test  4096 Oct 22 11:51 .gconf
+drwx------  3 test test  4096 Oct 22 11:40 .gnupg
+-rw-------  1 test test 13640 Oct 22 11:40 .ICEauthority
+drwx------  3 test test  4096 Aug 10 11:55 .local
+drwx------  5 test test  4096 Aug 17 09:28 .mozilla
+drwxr-xr-x  2 test test  4096 Aug 10 11:55 Music
+drwxrwxr-x  2 test test  4096 Sep 14 13:50 .nano
+drwxr-xr-x  8 test test  4096 Sep  5 12:05 .npm
+drwxr-xr-x  2 test test  4096 Aug 10 11:55 Pictures
+drwx------  3 test test  4096 Aug 13 12:32 .pki
+-rw-r--r--  1 test test   655 Aug 10 11:20 .profile
+drwxr-xr-x  2 test test  4096 Aug 10 11:55 Public
+drwxrwxr-x  2 test test  4096 Oct 22 10:06 Section 2
+drwxrwxr-x  2 test test  4096 Oct 22 10:07 Section 3
+drwxrwxr-x  2 test test  4096 Oct 22 10:08 Section 4
+drwxrwxr-x  2 test test  4096 Oct 22 10:08 Section 5
+drwxrwxr-x  2 test test  4096 Oct 22 10:09 Section 6
+drwxrwxr-x  2 test test  4096 Oct 22 10:10 Section 7
+drwxrwxr-x  2 test test  4096 Oct 22 10:10 Section 8
+-rw-rw-r--  1 test test    66 Sep 14 13:50 .selected_editor
+-rw-------  1 test test    68 Sep 14 12:19 .sqlite_history
+drwx------  2 test test  4096 Sep 14 13:06 .ssh
+-rw-r--r--  1 test test     0 Aug 13 08:07 .sudo_as_admin_successful
+drwxr-xr-x  2 test test  4096 Aug 10 11:55 Templates
+drwxrwxr-x  3 test test  4096 Aug 29 08:13 testing
+-rw-r-----  1 test test     5 Oct 22 11:40 .vboxclient-clipboard.pid
+-rw-r-----  1 test test     5 Oct 22 11:40 .vboxclient-display.pid
+-rw-r-----  1 test test     5 Oct 22 11:40 .vboxclient-draganddrop.pid
+-rw-r-----  1 test test     5 Oct 22 11:40 .vboxclient-seamless.pid
+drwxr-xr-x  2 test test  4096 Aug 10 11:55 Videos
+-rw-------  1 test test  6892 Sep 18 10:17 .viminfo
+drwx------  2 test test  4096 Sep 17 13:51 .w3m
+-rw-rw-r--  1 test test   252 Sep 20 09:37 .wget-hsts
+-rw-------  1 test test    49 Oct 22 11:40 .Xauthority
+-rw-------  1 test test    82 Oct 22 11:40 .xsession-errors
+-rw-------  1 test test  1295 Oct 22 10:15 .xsession-errors.old

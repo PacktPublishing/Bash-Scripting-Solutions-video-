@@ -1,0 +1,45 @@
+# Hellobonjour.sh
+# Copyright (C) 2017 Ron Brash
+# This file is distributed under the same license as the PACKAGE package.
+# Ron Brash <ron.brash@gmail.com>, 2017
+# Please ignore my terrible google translations;
+# As always, some is better than none!
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: i18n@example.com\n"
+"POT-Creation-Date: 2017-12-08 12:19-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: French Translator <fr@example.org>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. ##i18n: Please leave $COUNT as is
+#: hellobonjour.sh:6
+#, sh-format
+msgid "I have $COUNT electronic device"
+msgid_plural "I have $COUNT electronic devices"
+msgstr[0] "J'ai $COUNT appareil electronique"
+msgstr[1] "J'ai $COUNT appareils electroniques"
+
+#: hellobonjour.sh:10
+msgid "Hello"
+msgstr "Bonjour"
+
+#: hellobonjour.sh:13
+msgid "What is your name?"
+msgstr "Comment t'appelles tu?"
+
+#. ##i18n: Please leave $USER as is
+#: hellobonjour.sh:17
+#, sh-format
+msgid "My name is $USER"
+msgstr "Mon nom est $USER"
+
+#: hellobonjour.sh:20
+msgid "Do you have electronics?"
+msgstr "Avez-vous des appareils electroniques?"

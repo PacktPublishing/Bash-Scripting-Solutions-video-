@@ -1,0 +1,14 @@
+#!/bin/bash
+FILE_NAME=$1
+
+FILE_NAME_CLEAN=${FILE_NAME//_/}
+
+FILE_NAME_CLEAN=$(sed 's/..//g' <<< ${FILE_NAME_CLEAN})
+
+FILE_NAME_CLEAN=${FILE_NAME_CLEAN// /_}
+
+
+FILE_NAME_CLEAN=${FILE_NAME_CLEAN//[^a-zA-Z0-9_.]/}
+
+
+ls "${FILE_NAME_CLEAN}"
